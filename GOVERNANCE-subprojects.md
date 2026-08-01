@@ -81,6 +81,11 @@ Committee, which is selected as follows:
 * One Maintainer representative from each member subproject
 * [TODO:Number] general "Community Representatives"
 
+<!-- For CNCF level transitions, the TOC evaluates whether steering       -->
+<!-- representation is balanced across organizations. Consider adding:    -->
+<!-- "No single organization's representatives may hold more than 1/3 of -->
+<!-- the total Steering Committee seats." -->
+
 ### Steering Committee Duties
 
 The Steering Committee is responsible for the following tasks, any of which may

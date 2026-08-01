@@ -90,7 +90,15 @@ prospective contributors know when and where to engage with you. -->
 
 ## Resources
 
-[TODO: Add links to other helpful information (roadmap, docs, website, etc.)]
+<!-- TODO: Fill in links to your project's resources. The TOC looks for a -->
+<!-- public roadmap and clear pointers to adoption, security, and release -->
+<!-- information during due diligence. -->
+
+* [Roadmap](TODO)
+* [Releases](RELEASES.md)
+* [Adopters](ADOPTERS.md)
+* [Security Policy](SECURITY.md)
+* [TODO: Add links to docs, website, and other resources]
 
 ## License
 
