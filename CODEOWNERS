@@ -1,0 +1,17 @@
+# Code Owners
+#
+# This file defines the code owners for the [TODO: PROJECTNAME] project.
+# Code owners are automatically requested for review when a pull request
+# modifies files that they own.
+#
+# The owners listed here should match the governance structure documented
+# in GOVERNANCE.md and the maintainers listed in MAINTAINERS.md.
+#
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repo
+* @TODO-github-org/maintainers
+
+# TODO: Add path-specific owners below. Examples:
+# /docs/ @TODO-github-org/docs-team
+# /api/ @TODO-github-org/api-maintainers

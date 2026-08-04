@@ -32,6 +32,10 @@ The [TODO: PROJECTNAME] and its leadership embrace the following values:
   priority over shipping code or sponsors' organizational goals.  Each
   contributor participates in the project as an individual.
 
+* Vendor Neutrality: The project direction and decisions are not controlled by
+  any single organization. Maintainer selection, roadmap prioritization, and
+  release decisions are made based on project merit, not employer affiliation.
+
 * Inclusivity: We innovate through different perspectives and skill sets, which
   can only be accomplished in a welcoming and respectful environment.
 
@@ -76,8 +80,13 @@ To become a Maintainer you need to demonstrate the following:
 
 A new Maintainer must be proposed by an existing maintainer by sending a message to the
 [developer mailing list](TODO: List Link). A simple majority vote of existing Maintainers
-approves the application.  Maintainers nominations will be evaluated without prejudice
-to employer or demographics.
+approves the application.  Maintainer nominations will be evaluated without prejudice
+to employer or demographics and should consider the organizational diversity of the
+maintainer group.
+
+<!-- For projects approaching graduation, consider adding: -->
+<!-- The maintainers will avoid nominating new maintainers from any organization -->
+<!-- that already employs 50% or more of existing maintainers. -->
 
 Maintainers who are selected will be granted the necessary GitHub rights,
 and invited to the [private maintainer mailing list](TODO).
@@ -90,14 +99,22 @@ continue fulfilling their project duties.
 Maintainers may also be removed after being inactive, failure to fulfill their 
 Maintainer responsibilities, violating the Code of Conduct, or other reasons.
 Inactivity is defined as a period of very low or no activity in the project 
-for a year or more, with no definite schedule to return to full Maintainer 
-activity.
+for [TODO: Number, e.g. 6-12] months or more, with no definite schedule to return 
+to full Maintainer activity.
 
 A Maintainer may be removed at any time by a 2/3 vote of the remaining maintainers.
 
-Depending on the reason for removal, a Maintainer may be converted to Emeritus
-status.  Emeritus Maintainers will still be consulted on some project matters,
-and can be rapidly returned to Maintainer status if their availability changes.
+### Emeritus Maintainers
+
+Depending on the reason for removal or resignation, a Maintainer may be converted 
+to Emeritus status. Emeritus Maintainers are recognized for their past contributions 
+and may still be consulted on project matters, but do not have voting rights or 
+merge access. Emeritus Maintainers are listed in [MAINTAINERS.md](./MAINTAINERS.md) 
+under a separate Emeritus section.
+
+An Emeritus Maintainer may be reinstated to active Maintainer status by a simple 
+majority vote of existing Maintainers, provided they meet the current Maintainer 
+requirements and can commit to ongoing participation.
 
 ## Meetings
 
@@ -137,7 +154,7 @@ contributors to handle it.  The Maintainers will review who is assigned to this
 at least once a year.
 
 The Security Response Team is responsible for handling all reports of security
-holes and breaches according to the [security policy](TODO:Link to security.md).
+holes and breaches according to the [security policy](SECURITY.md).
 
 ## Voting
 
@@ -151,6 +168,12 @@ demand a vote be taken.
 Most votes require a simple majority of all Maintainers to succeed, except where
 otherwise noted.  Two-thirds majority votes mean at least two-thirds of all 
 existing maintainers.
+
+<!-- For projects with maintainers from multiple organizations, consider adding -->
+<!-- an org-balanced voting clause. Projects with org-balanced governance      -->
+<!-- demonstrate stronger health indicators for CNCF level transitions.       -->
+<!-- Example: "No single organization's employees may cast more than 1/3 of   -->
+<!-- the total votes on any decision." -->
 
 ## Modifying this Charter
 

@@ -229,11 +229,15 @@ with the exceptions for company representation discussed below.
 
 ### Limitations on Company Representation
 
+<!-- Org-balanced representation is a key indicator of project health for   -->
+<!-- CNCF level transitions. Set this limit to ensure no single organization -->
+<!-- controls the steering committee. A common threshold is 1/3 of seats.   -->
+
 No more than [TODO: Number] seats may be held by employees of the same organization (or
 conglomerate, in the case of companies owning each other). If an
 election results in greater than [TODO: Number] employees of the same organization being
 selected, the lowest vote getters from any particular employer will be removed until
-representation on the committee is down to two.
+representation on the committee is down to [TODO: Number].
 
 If employers change because of job changes, acquisitions, or other events, in a
 way that would yield too many seats being held by employees of the same

@@ -1,9 +1,13 @@
-The current Maintainers Group for the [TODO: Projectname] Project consists of:
+The current maintainers of the [TODO: Projectname] project are listed below.
 
-| Name | Employer | Responsibilities |
-| ---- | -------- | ---------------- |
-|      |          |                  |
+<!-- Sandbox projects require a minimum of 3 maintainers from 2+ organizations. -->
 
-This list must be kept in sync with the [CNCF Project Maintainers list](https://github.com/cncf/foundation/blob/master/project-maintainers.csv).
+| Name | GitHub/GitLab ID | Company/Organization |
+| ---- | ---------------- | -------------------- |
+|      |                  |                      |
+|      |                  |                      |
+|      |                  |                      |
 
-See [the project Governance](GOVERNANCE.md) for how maintainers are selected and replaced.
+This list must be kept in sync with the [CNCF Project Maintainers list](https://github.com/cncf/foundation/blob/main/project-maintainers.csv).
+
+See [the project Governance](GOVERNANCE.md) for how maintainers are selected, replaced, and removed.
