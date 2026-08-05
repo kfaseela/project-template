@@ -66,6 +66,14 @@ one representative to the Steering Committee.  This representative
 need not be a member of the subproject's Maintainer Committee, and will be 
 replaced or renewed by the committee annually.
 
+### Subproject Organizational Diversity
+
+Each subproject should track the organizational diversity of its maintainer
+committee. Umbrella projects can have overall organizational diversity while
+individual subprojects remain dominated by a single organization. The Steering
+Committee should review per-subproject diversity at least annually and work with
+subproject maintainers to grow external participation where concentration exists.
+
 Should a member of the Maintainer Committee cease being active in the subproject,
 violate the Code Of Conduct, or need to be removed for some other reason, they
 may be removed by a 2/3 majority vote of the other Committee members, or a

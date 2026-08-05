@@ -144,13 +144,21 @@ There are two ways to raise issues to the steering committee for decision:
 
 ## Composition
 
-The steering committee has [TODO: Number] seats. These seats are
+The steering committee has [TODO: Number, recommend minimum 5] seats. These seats are
 open to any project contributor. See
 [candidate eligibility](#candidate-eligibility) for a definition.
 
-Steering Committee members serve for [TODO: Service Period] terms, staggered in order to
+Steering Committee members serve for [TODO: Service Period, recommend 2-year] terms, staggered in order to
 preserve continuity. Every year either [TODO:Number] or [TODO:Remainder]
 contributor seats are elected.
+
+### Term Renewal
+
+Steering Committee terms must be actively renewed through elections. If an election is not held within 30 days of scheduled term expiration, all expiring seats are considered vacant and a special election must be called. Lapsed governance - where terms expire without renewal - undermines the accountability that elections are designed to provide.
+
+### Governance and Code Alignment
+
+The Steering Committee should periodically assess whether governance diversity is reflected in the project's contributor and maintainer composition. A diverse steering committee paired with a single-organization maintainer pool indicates that governance protections are not yet translating into contributor pipeline diversity. The committee should track this and take action to grow the contributor base when divergence is observed.
 
 ## Election Procedure
 
