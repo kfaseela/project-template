@@ -175,6 +175,17 @@ existing maintainers.
 <!-- Example: "No single organization's employees may cast more than 1/3 of   -->
 <!-- the total votes on any decision." -->
 
+## When to Evolve This Governance
+
+The Maintainer Council model works well for focused projects with a small, cohesive group of contributors. As the project grows, watch for these signals that a governance transition may be needed:
+
+* **Decisions stall.** When the maintainer group is too large for lazy consensus to work, or when decisions affect subgroups differently, a delegation structure (working groups, SIGs) helps.
+* **New contributors cannot find a path in.** If the only path to influence is "become a maintainer," the project needs intermediate roles (reviewer, approver). Projects with intermediate roles produce more diverse maintainer pools because they give external contributors a visible progression path.
+* **A single organization dominates.** When one company holds a majority of maintainer seats, consider adding [org-balanced voting](governance/ORG-BALANCED-VOTING.md), company representation caps, or transitioning to an [elected steering committee](GOVERNANCE-elections.md).
+* **Subprojects diverge.** When parts of the project develop their own contributor communities or release cadences, consider [federated subproject governance](GOVERNANCE-subprojects.md).
+
+These transitions are a sign of project growth, not governance failure.
+
 ## Modifying this Charter
 
 Changes to this Governance and its supporting documents may be approved by 
