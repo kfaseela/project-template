@@ -199,7 +199,7 @@ Some projects have additional, specifically defined maintainer roles because of 
 
 ## Inactivity
 <!--TODO: project leads to fill in exact details for how you measure inactivity for your project-->
-It is important for contributors to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a lost of trust in the project.
+It is important for contributors to be and stay active to set an example and show commitment to the project. Inactivity is harmful to the project as it may lead to unexpected delays, contributor attrition, and a loss of trust in the project.
 
 * Inactivity is measured by:
     * Periods of no contributions for longer than [TODO: Number] months
